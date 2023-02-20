@@ -1,2 +1,0 @@
-//mennem kell
-//visszatértem
